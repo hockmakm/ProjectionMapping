@@ -49,7 +49,6 @@
      <Compile Include="Assets\Old Junk\SetObliqueness.js" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
-     <None Include="Assets\Shaders_Textures\Transparent With Shadow.shader" />
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
      <None Include="Assets\Transparent With Shadow.shader" />
  <Reference Include="UnityEngine.UI">
