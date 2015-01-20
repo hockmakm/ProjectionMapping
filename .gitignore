@@ -1,7 +1,7 @@
 #Folders
-/Library
-/Temp
-/Builds
+*/Library
+*/Temp
+*/Builds
 
 #Project/User Preference Files
 *.sln
